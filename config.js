@@ -1,6 +1,6 @@
 const config = {
   gatsby: {
-    pathPrefix: '/',
+    pathPrefix: '/tw-player-notes',
     siteUrl: 'https://hasura.io',
     gaTrackingId: null,
     trailingSlash: false,
@@ -38,12 +38,12 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      '/01-prep', '/02-players', '/03-people', '/04-places', '/05-items', '/06-lore'
+      '/02-players', '/03-people', '/04-places', '/05-items'
 //     '/introduction', // add trailing slash if enabled above
 //      '/codeblock',
     ],
     collapsedNav: [
-      '/01-prep', '/03-people', '/04-places', '/05-items' //, '/06-lore'
+      '/03-people', '/04-places', '/05-items' //, '/06-lore'
       // add trailing slash if enabled above
     ],
     links: [],
