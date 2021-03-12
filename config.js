@@ -38,12 +38,12 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      '/02-players', '/03-people', '/04-places', '/05-items'
+      '/03-people', '/04-places', '/05-items'
 //     '/introduction', // add trailing slash if enabled above
 //      '/codeblock',
     ],
     collapsedNav: [
-      '/03-people', '/04-places', '/05-items' //, '/06-lore'
+      //'/03-people', '/04-places', '/05-items' //, '/06-lore'
       // add trailing slash if enabled above
     ],
     links: [],
