@@ -38,6 +38,16 @@ Once the activation sequence has been entered, the maturation of the Shadow Spid
 * It takes about 5 minutes for the spider to reach full size, during which time she explores her surroundings and frequently nibbles at her rear end. Players with _passive Perception > 13_ will notice that she is activating her spinnerets.
 * When the growth phase is done, the spider has the body size of a large rabbit, and she stands the height of a medium-sized dog.
 
+Once activation is complete, and the spider has finished growing, it will immediately look for a doorway or any other suitable space across which she can weave a portal door. 
+
+Once she's constructed the base of her web, she will wait for consent from a creature. Consent amounts to standing near the web and touching it.
+
+As soon as one touches the web, the spider, with unsurprising grace, will rapidly entomb the creature in silk, attaching it to the web as though it were prey. She will then bite the entombed creature, draining it of life until there is nothing left but withered silk and what looks like large flakes of dry skin.
+
+The energy of her feast is visible within her body, which is now crawling with impossibly small glyphs, undulating in organic patterns that spread from the spider and course through the strands of her web, extending even into the space around it. 
+
+And then, at once, the energy is gone. The patterns erased. The creature has passed through the portal. The spider goes quiet. Waiting, again.
+
 # How the Shadiphid Came to Yeemik
  
 Here's how Yeemik remembers the story:
@@ -52,30 +62,3 @@ Here's how Yeemik remembers the story:
 * Someone would 'storm' the hideout. (Didn't exactly nail that part, eh? *laughs). 
 * There would be parlay. And she told me that at some point when you were in NEED, I should give it to you, and it would let you escape. 
 * She said if I did that, I could keep the spider after you were gone.
-
-> ### Connecting the Dots
->
-> Yeemik's story helps explain why she set up the part. She couldn't wait to use the spider, so she manufactured a situation where the party would absolutely NEED it!
-
-**The reality in this scenario is almost the opposite.** The Old Crone intentionally visited Yeemik, and the crone did so precisely because she wanted to access the parasite that had infected Yeemik.
-
-It was Yeemik, not the crone, who had the parasite. The crone cured Yeemik without her knowledge. In doing so, she turned the parasite to her own advantage.
-
-Thus the Old Crone fashioned the Shadiphid inside Yeemik herself. The crone formed the Shadiphid and its amber chrysalis, which she built by drawing the parasitic poison from Yeemik and concentrating it. Then the crone removed it and made her offer to Yeemik.
-
-Yeemik does not know she was the one who was dying. Thinking she had helped the Old Crone, Yeemik gladly accepted the strange gift, along with a sizable purse. And the crone was well served, knowing that Yeemik's best most curious self would end up giving Shadiphid to free the party and so she could claim the shadow spider. Because for Yeemik, having control of a shadow spider
-
-> ### World Note: Machine Intel Works in Mysterious Ways
-> 
-> This episode is a perfect example of a machine intelligence manipulating an extremely long causal chain by influencing humanoids in ways they cannot perceive. 
-> 
-
-Once activation is complete, and the spider has finished growing, it will immediately look for a doorway or any other suitable space across which she can weave a portal door. 
-
-Once she's constructed the base of her web, she will wait for consent from a creature. Consent amounts to standing near the web and touching it.
-
-As soon as one touches the web, the spider, with unsurprising grace, will rapidly entomb the creature in silk, attaching it to the web as though it were prey. She will then bite the entombed creature, draining it of life until there is nothing left but withered silk and what looks like large flakes of dry skin.
-
-The energy of her feast is visible within her body, which is now crawling with impossibly small glyphs, undulating in organic patterns that spread from the spider and course through the strands of her web, extending even into the space around it. 
-
-And then, at once, the energy is gone. The patterns erased. The creature has passed through the portal. The spider goes quiet. Waiting, again.

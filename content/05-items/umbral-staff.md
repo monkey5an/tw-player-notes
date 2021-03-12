@@ -1,5 +1,5 @@
 ---
-title: Shadowood Staff
+title: Shadow Wood Staff
 ---
 
 ![](../static/umbral-staff.png)
