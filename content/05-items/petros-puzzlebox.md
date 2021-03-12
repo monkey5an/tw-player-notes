@@ -12,9 +12,3 @@ title: Petro Arnogast's Puzzlebox
 
 >"Before you can learn about your armor, you must understand your tools. As in all things, the key lies in harmony. Only thus will you reveal my gift." <br />  *—**A**rnogast*
 >
-
-To solve this riddle, Steam must use his Magical Tinkering feature to set each of the three keys ringing at a different pitch so that together they play a chord.
-
-Within the box are fragments of a ***Chem Maintenance Manual***, written in a strange, glyph-based language. (Or perhaps the box contains a map that leads to where the fragments are stored, along with Petro's strange theories about the origins of the Gods and Banes.)
-
-The box also contains a gift from Petro, an [All-Purpose Tool \(+2\)](https://dndbeyond.com/magic-items/all-purpose-tool).

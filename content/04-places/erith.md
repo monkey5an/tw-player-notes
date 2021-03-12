@@ -2,4 +2,4 @@
 title: Erith
 ---
 
-![Erith world map](../static/erith-0.71.png)
+![Erith world map](../static/erith-simplified-0.88.png)
