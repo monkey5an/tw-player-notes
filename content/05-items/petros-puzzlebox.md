@@ -16,3 +16,13 @@ The scroll, printed with blue-black letters inked with some sort of hand stamp, 
 
 >"Before you can learn about your armor, you must understand your tools. As in all things, the key lies in harmony. Only thus will you reveal my gift." <br />  *—**A**rnogast*
 >
+
+## The gift
+
+The puzzlebox contains Petro's gift to Steam—an [All-purpose Tool (+1)](https://www.dndbeyond.com/magic-items/all-purpose-tool)
+
+## Text Fragment
+
+Among the items in Petro's puzzlebox is a scrap of paper that looks like a rubbing (or some other copy) made from an original manuscript. This page contains alchemical diagrams and text. Someone has drawn annoations connecting elements of the diagrams and select phrases in the text. The connections converge on a central annotation—'S.T.E.A.M.'
+
+![Alchemical fragments, annotated](../static/alchemy-steam.png)
