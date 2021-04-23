@@ -1,6 +1,8 @@
 ---
-title: Prices
+title: Guide to Prices
 ---
+
+Use this guide to get a sense of how much items cost, what kind of shops typically stock them, and their general availability in different locales. For example, **studded leather** armor normally costs around 45 gp; it is typically stocked at blacksmiths, leatherworkers, and outfitters; and it is usually only available in premium locales, such as a city.
 
 ## Blacksmith/Armory
 

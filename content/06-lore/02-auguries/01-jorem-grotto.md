@@ -2,7 +2,7 @@
 title: In Jorem Greentide's Grotto
 ---
 
-While you are sleeping, nestled within the grotto **Iorem Greentide** fashioned from the heart of a foothill, you have a dream.
+While you are sleeping, nestled within the grotto **Jorem Greentide** fashioned from the heart of a foothill, you have a dream.
 
 ## The dream
 
