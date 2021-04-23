@@ -1,5 +1,5 @@
 ---
-title: Stoutwhistle Creek
+title: At Stoutwhistle Creek
 ---
 
 After the strange discovery of Ketya and Zorin [Stoutwhistle's R&D lab](/07-encounters/family-reunion), Wangari Shire of the Maccanto elves, Guardian of the Undine, reaches out to the Sisters for guidance. 
