@@ -6,6 +6,7 @@
 <url> <loc>https://hasura.io/tw-player-notes/04-places</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/06-lore/01-cosmology/02-material-plane</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://hasura.io/tw-player-notes/05-items/general-price-list</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/06-lore/01-cosmology</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/06-lore/02-auguries</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/06-lore/04-jindris-faded-notes</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -18,5 +19,4 @@
 <url> <loc>https://hasura.io/tw-player-notes/04-places/erith</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/05-items/umbral-staff</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/05-items/tricksters-doublet</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://hasura.io/tw-player-notes/05-items/general-price-list</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
