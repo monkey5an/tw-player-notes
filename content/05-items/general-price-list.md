@@ -1,5 +1,5 @@
 ---
-title: Baseline Price List
+title: Prices
 ---
 
 ## Blacksmith/Armory
@@ -11,7 +11,7 @@ title: Baseline Price List
 | **Armor**            |                              |               |              |                  |               |              |              |                |
 |                      | **Light Armor**              |               |              |                  |               |              |              |                |
 |                      | Studded Leather              | 45 gp         | 33 gp        | 68 gp            |               |              |              | X              |
-|                      | Medium Armor                 |               |              |                  |               |              |              |                |
+|                      | **Medium Armor**                 |               |              |                  |               |              |              |                |
 |                      | Chain Shirt                  | 50 gp         | 38 gp        | 75 gp            | X             | X            | X            | X              |
 |                      | Scale Mail                   | 50 gp         | 38 gp        | 75 gp            |               |              | X            | X              |
 |                      | Breastplate                  | 400 gp        | 300 gp       | 600 gp           | X             | X            | X            | X              |
@@ -173,7 +173,7 @@ title: Baseline Price List
 |                      | **Artisan's Tools**     |               |              |                  |               |              |              |                |
 |                      | Calligrapher's Supplies | 10 gp         | 7 gp         | 15 gp            |               |              | O            | O              |
 |                      | Herbalism Kit           | 5 gp          | 3 gp         | 8 gp             |               |              | X            | X              |
-|                      | Musical Instrument      |               |              |                  |               |              |              |                |
+|                      | **Musical Instrument**      |               |              |                  |               |              |              |                |
 |                      | Flute                   | 2 gp          | 1 gp         | 3 gp             |               |              |              | O              |
 |                      | Lyre                    | 30 gp         | 22 gp        | 45 gp            |               |              |              | O              |
 |                      | Horn                    | 3 gp          | 2 gp         | 5 gp             |               |              |              | O              |
@@ -264,7 +264,7 @@ title: Baseline Price List
 |                      | Padded                     | 5 gp          | 3 gp         | 8 gp             |               |              | X            | X              |
 |                      | Leather                    | 10 gp         | 7 gp         | 15 gp            |               |              | X            | X              |
 |                      | Studded Leather            | 45 gp         | 33 gp        | 68 gp            |               |              |              | X              |
-|                      | Medium Armor               |               |              |                  |               |              |              |                |
+|                      | **Medium Armor**               |               |              |                  |               |              |              |                |
 |                      | Hide                       | 10 gp         | 7 gp         | 15 gp            |               | X            | X            | X              |
 | **Weapons**          |                            |               |              |                  |               |              |              |                |
 |                      | **Simple Melee Weapons**   |               |              |                  |               |              |              |                |
@@ -424,7 +424,7 @@ title: Baseline Price List
 
 | Type  | Item                    | Cost (Normal) | Cost (Cheap) | Cost (Expensive) | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 |-------|-------------------------|---------------|--------------|------------------|---------------|--------------|--------------|----------------|
-| Tools |                         |               |              |                  |               |              |              |                |
+| **Tools** |                         |               |              |                  |               |              |              |                |
 |       | **Artisan's Tools**     |               |              |                  |               |              |              |                |
 |       | Calligrapher's Supplies | 10 gp         | 8 gp         | 15 gp            |               |              | X            | X              |
 |       | Glassblower's Tools     | 30 gp         | 22 gp        | 45 gp            |               |              |              | X              |
@@ -534,7 +534,7 @@ title: Baseline Price List
 | **Adventuring Gear**   |                                  |               |              |                  |               |              |              |                |
 |                    | Amulet/Necklace, Exquisite       | 5 gp          | 3 gp         | 8 gp             | X             | X            | X            | X              |
 |                    | Amulet/Necklace, Mundane         | 5 sp          | 3 sp         | 8 sp             | X             | X            | X            | X              |
-|                    | Arcane Focus                     |               |              |                  |               |              |              |                |
+|                    | **Arcane Focus**                     |               |              |                  |               |              |              |                |
 |                    | Crystal                          | 10 gp         | 7 gp         | 15 gp            |               |              | X            | X              |
 |                    | Orb                              | 20 gp         | 15 gp        | 30 gp            |               |              |              | X              |
 |                    | Earrings, Exquisite              | 4 gp          | 3 gp         | 6 gp             | X             | X            | X            | X              |
@@ -670,7 +670,7 @@ title: Baseline Price List
 |                  | Quarterstaff               | 2 sp          | 1 sp         | 3 sp             | X             | X            | X            | X              |
 | **Adventuring Gear** |                            |               |              |                  |               |              |              |                |
 |                      | Abacus                         | 2 gp          | 1 gp         | 3 gp             |               |              | X            | X              |
-|                  | Arcane Focus               |               |              |                  |               |              |              |                |
+|                  | **Arcane Focu**s               |               |              |                  |               |              |              |                |
 |                  | Crystal                    | 10 gp         | 7 gp         | 15 gp            | X             | X            | X            | X              |
 |                  | Orb                        | 20 gp         | 15 gp        | 30 gp            |               |              | X            | X              |
 |                  | Rod                        | 10 gp         | 7 gp         | 15 gp            |               | X            | X            | X              |
@@ -680,7 +680,7 @@ title: Baseline Price List
 |                  | Candle                     | 1 cp          | 1 cp         | 2 cp             | X             | X            | X            | X              |
 |                  | Case, Map or Scroll        | 1 gp          | 7 sp         | 2 gp             |               | X            | X            | X              |
 |                  | Component Pouch            | 25 gp         | 18 gp        | 38 gp            |               |              |              |                |
-|                  | Druidic Focus              |               |              |                  |               |              |              |                |
+|                  | **Druidic Focus**              |               |              |                  |               |              |              |                |
 |                  | Sprig of Mistletoe         | 1 gp          | 7 sp         | 2 gp             | X             | X            | X            | X              |
 |                  | Totem                      | 1 gp          | 7 sp         | 2 gp             |               |              | X            | X              |
 |                  | Wooden Staff               | 5 gp          | 3 gp         | 8 gp             | X             | X            | X            | X              |
@@ -694,14 +694,14 @@ title: Baseline Price List
 |                  | Robes                      | 1 gp          | 7 sp         | 2 gp             |               |              | X            | X              |
 |                  | Spellbook                  | 50 gp         | 38 gp        | 75 gp            |               | X            | X            | X              |
 |                  | Vial                       | 1 gp          | 7 sp         | 2 gp             |               | X            | X            | X              |
-| Tools            |                            |               |              |                  |               |              |              |                |
-|                  | Artisan's Tools            |               |              |                  |               |              |              |                |
+| **Tools**            |                            |               |              |                  |               |              |              |                |
+|                  | **Artisan's Tools**            |               |              |                  |               |              |              |                |
 |                  | Alchemist's Supplies       | 50 gp         | 38 gp        | 75 gp            |               | X            | X            | X              |
 |                  | Calligrapher's Supplies    | 10 gp         | 7 gp         | 15 gp            |               |              | X            | X              |
 |                  | Musical Instrument         |               |              |                  |               |              |              |                |
 |                  | Lute                       | 35 gp         | 26 gp        | 53 gp            |               |              | X            | X              |
 |                  | Lyre                       | 30 gp         | 22 gp        | 45 gp            |               |              |              | X              |
-| Magic Items      |                            |               |              |                  |               |              |              |                |
+| **Magic Items**      |                            |               |              |                  |               |              |              |                |
 |                  | Spell Scrolls/ Gems        |               |              |                  |               |              |              |                |
 |                  | Common (Cantrip)           | 50 gp         | 38 gp        | 75 gp            | X             | X            | X            | X              |
 |                  | Common (Level 1)           | 100 gp        | 75 gp        | 150 gp           | X             | X            | X            | X              |
@@ -709,9 +709,9 @@ title: Baseline Price List
 |                  | Uncommon (Level 3)         | 500 gp        | 375 gp       | 750 gp           |               |              | X            | X              |
 |                  | Rare (Level 4)             | 2500 gp       | 1875 gp      | 3750 gp          |               |              |              | X              |
 |                  | Rare (Level 5)             | 5000 gp       | 3750 gp      | 7500 gp          |               |              |              | X              |
-|                  | Services                   |               |              |                  |               |              |              |                |
+|                  | **Services**                   |               |              |                  |               |              |              |                |
 |                  | Magic Appraisal (Identify) | 100 gp        | 75 gp        | 150 gp           | X             | X            | X            | X              |
-| Miscellaneous    |                            |               |              |                  |               |              |              |                |
+| **Miscellaneous**    |                            |               |              |                  |               |              |              |                |
 |                  | Spell Components           | See Spell     | (x0.75)      | (x1.5)           |               | X            | X            | X              |
 
 <br />
