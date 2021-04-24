@@ -14,7 +14,7 @@ This guide outlines the key planes of existence that your characters and magic i
 
 ## Material Plane
 
-* The **Material Plane** is where Erith is located. It is where you stand today. It represents the kind of the time-space existence with which we are all intimately familiar.
+* The [**Material Plane**](/06-lore/01-cosmology/02-material-plane) is where Erith is located. It is where you stand today. It represents the kind of the time-space existence with which we are all intimately familiar.
 * **Indigenous creature types**: Beasts, Constructs, Dragons, Giants, Humanoids, Oozes, Plants.
 
 ## Ethereal Plane & the Astral Sea
