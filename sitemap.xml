@@ -1,28 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://hasura.io/tw-player-notes/03-people</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://hasura.io/tw-player-notes/05-items</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://hasura.io/tw-player-notes/04-places</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/06-lore</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://hasura.io/tw-player-notes/03-people</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://hasura.io/tw-player-notes/04-places</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://hasura.io/tw-player-notes/05-items</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://hasura.io/tw-player-notes/06-lore/022-oisin-origins</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/06-lore/01-cosmology</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://hasura.io/tw-player-notes/06-lore/022-oisin-origins</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/06-lore/02-auguries</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/06-lore/025-skol-shadow</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://hasura.io/tw-player-notes/06-lore/025-skol-shadow/01-auspicious-beginning</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/06-lore/04-jindris-faded-notes</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://hasura.io/tw-player-notes/06-lore/025-skol-shadow/02-night-to-remember</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/06-lore/03-communions</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/06-lore/03-communions/02-communion</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://hasura.io/tw-player-notes/06-lore/025-skol-shadow/ 01-auspicious-beginning</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/06-lore/02-auguries/01-jorem-grotto</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://hasura.io/tw-player-notes/06-lore/025-skol-shadow/02-night-to-remember</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/06-lore/01-cosmology/01-overview</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://hasura.io/tw-player-notes/06-lore/022-oisin-origins/01-death-of-tosscobble</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/06-lore/02-auguries/02-flodgate</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://hasura.io/tw-player-notes/06-lore/022-oisin-origins/01-death-of-tosscobble</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/06-lore/01-cosmology/02-material-plane</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://hasura.io/tw-player-notes/05-items/petros-puzzlebox</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://hasura.io/tw-player-notes/03-people/petro-arnogast</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/05-items/tricksters-doublet</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://hasura.io/tw-player-notes/05-items/petros-puzzlebox</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://hasura.io/tw-player-notes/03-people/jindri-massina</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://hasura.io/tw-player-notes/03-people/dareel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/04-places/erith</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/05-items/umbral-staff</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://hasura.io/tw-player-notes/03-people/petro-arnogast</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/05-items/general-price-list</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
