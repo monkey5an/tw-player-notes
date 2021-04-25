@@ -21,5 +21,25 @@
 		"body": [
 			"https://www.dndbeyond.com/monsters/"
 		]
-	}
+	},
+	"dmNpcBlurb": {
+		"prefix": "dmNpcBlurb",
+		"body": [
+		  "<table style='width:100%'>",
+		  "    <tr>",
+		  "        <td>",
+		  "            <p></p>",
+		  "        </td>",
+		  "        <td style='width:50%'>",
+		  "            <img src='../static/petro-arnogast.jpg' />",
+		  "            <ul style='list-style-type:none; padding-left:0'>",
+		  "                <li style='margin:0'><strong>Class</strong> Artificer (Alchemist)</li>",
+		  "                <li style='margin:0'><strong>Race</strong> Ylve</li>",
+		  "            </ul>",
+		  "        </td>",
+		  "    </tr>",
+		  "</table>"
+		],
+		"description": "Table for displaying NPC summary alongisde an image."
+	  },
 }

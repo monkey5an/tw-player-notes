@@ -11,7 +11,7 @@ This guide outlines the key planes of existence that your characters and magic i
 **Erith** exists in a cosmos that has its own set of planes. Each plane carves out a different dimension of reality. Though separate, travel among planes is possible—with the right magic, innate ability, or other means.
 
 ![Overview of planes](../../static/cosmology.png)
-
+			  
 ## Material Plane
 
 * The [**Material Plane**](/06-lore/01-cosmology/02-material-plane) is where Erith is located. It is where you stand today. It represents the kind of the time-space existence with which we are all intimately familiar.
