@@ -50,7 +50,7 @@ const config = {
     frontline: false,
     ignoreIndex: true,
     title:
-      "Shadow of Drought",
+      "Root and Stem",
   },
   siteMetadata: {
     title: 'Gatsby Gitbook Boilerplate | Hasura',
