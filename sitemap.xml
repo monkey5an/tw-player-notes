@@ -3,6 +3,7 @@
 <url> <loc>https://hasura.io/tw-player-notes/03-people</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/04-places</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/06-lore</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://hasura.io/tw-player-notes/05-items/abilities</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/05-items</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/06-lore/02-auguries</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -19,7 +20,6 @@
 <url> <loc>https://hasura.io/tw-player-notes/06-lore/01-cosmology/01-overview</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/06-lore/025-skol-shadow/02-night-to-remember</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/06-lore/01-cosmology/02-material-plane</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://hasura.io/tw-player-notes/05-items/abilities</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/05-items/petros-puzzlebox</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/05-items/tricksters-doublet</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/tw-player-notes/04-places/erith</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
